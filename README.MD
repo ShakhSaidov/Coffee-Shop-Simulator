@@ -2,6 +2,7 @@
 **PURPOSE OF PROJECT:**
 - Learned using the following data structures - ArrayLists, LinkedLists, Queues and PriorityQueues 
 - Learned about event-driven simulations in Java\
+
 **VERSION or DATE:** v1.0\
 **HOW TO START THIS PROJECT:** Require BlueJ or any IDE that supports Java\
 **AUTHORS:** Shakh Saidov\
