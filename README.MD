@@ -12,5 +12,5 @@ for a cashier to serve a customer in seconds
 - Fourth-to-Last line: The arrival times of the customers in the "hh:mm:ss" 24-hour format
 
 **LEARNED:** 
-- Learned using the following data structures - ArrayLists, LinkedLists, Queues and PriorityQueues 
-- Learned about event-driven simulations in Java
+- The implementation and usage of the following data structures -> ArrayLists, LinkedLists, Queues and PriorityQueues 
+- Event-driven simulations in Java
