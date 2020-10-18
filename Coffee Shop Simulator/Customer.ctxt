@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Customer
+comment0.text=\r\n\ Customer\ class\ manages\ a\ customer\ waiting\ in\ line\ for\ service\r\n\ @author\ Shakh\ Saidov\r\n
+comment1.params=arrives\ service\ profit
+comment1.target=Customer(int,\ int,\ double)
+comment2.params=
+comment2.target=double\ getProfit()
+comment2.text=\r\n\ Returns\ the\ profit\ earned\ from\ customer\r\n\ @return\ double\ profit\r\n
+comment3.params=
+comment3.target=int\ getArrivalTime()
+comment3.text=\r\n\ Returns\ customer\ arrival\ time\r\n\ @return\ int\ arrival\ time\r\n
+comment4.params=
+comment4.target=int\ getWaitTime()
+comment4.text=\r\n\ Returns\ customer\ waiting-in-line\ time\r\n\ @return\ int\ wait\ time\r\n
+comment5.params=
+comment5.target=int\ getDepartureTime()
+comment5.text=\r\n\ Returns\ customer\ departure\ time\r\n\ @return\ int\ departure\ time\r\n
+comment6.params=
+comment6.target=int\ getServiceTime()
+comment6.text=\r\n\ Returns\ customer\ service\ time\r\n\ @return\ int\ service\ time\r\n
+comment7.params=departs
+comment7.target=void\ setDepartureTime(int)
+comment7.text=\r\n\ Sets\ the\ time\ when\ customer\ will\ leave\r\n\ @param\ int\ departure\ time\r\n
+comment8.params=waits
+comment8.target=void\ setWaitTime(int)
+comment8.text=\r\n\ Sets\ the\ amount\ of\ time\ customer\ will\ have\ to\ wait\r\n\ @param\ int\ wait\ time\r\n
+numComments=9

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=SimTester
+comment0.text=\r\n\ SimTester\ is\ the\ main\ class\ that\ gathers\ the\ data\ from\ the\ given\ input.txt\ and\ \r\n\ runs\ the\ simulation\ of\ the\ CoffeeShop\ with\ the\ provided\ data.\r\n\ \r\n\ @author\ ShakhSaidov\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=seed\ cashierNum
+comment2.target=Sim\ setDataAndSimulate(int,\ int)
+comment2.text=\r\n\ Reads\ input.txt\ and\ gathers\ the\ data\r\n\ @param\ int\ seed\ \r\n\ @param\ int\ cashierNum\r\n\ \r\n\ @return\ Sim\ sim\ with\ results\r\n
+comment3.params=seed\ times\ serveMin\ serveMax\ profitMin\ profitMax\ cashierNum\ cashierWage
+comment3.target=Sim\ simulate(int,\ java.util.ArrayList,\ int,\ int,\ double,\ double,\ int,\ double)
+comment3.text=\r\n\ Uses\ the\ obtained\ data\ properly\ and\ sets\ the\ scene.\r\n\ @param\ int\ seed,\ for\ random\r\n\ @param\ ArrayList\ times,\ the\ arrival\ times\ of\ customers\r\n\ @param\ int\ serveMin,\ lower\ bound\ for\ service\ time\r\n\ @param\ int\ serveMax,\ upper\ bound\ for\ service\ time\r\n\ @param\ double\ profitMin,\ lower\ bound\ for\ profit\r\n\ @param\ double\ profitMax,\ upper\ bound\ for\ profit\r\n\ @param\ int\ cashierNum,\ number\ of\ cashiers\r\n\ @param\ double\ cashierWage,\ the\ wage\ cashiers\ receive\r\n\ \r\n\ @return\ Sim\ sim\ containing\ results\r\n
+comment4.params=sim
+comment4.target=void\ analyzeSim(Sim)
+comment4.text=\r\n\ Analyzes\ the\ result\ of\ the\ simulation.\r\n\ AvgWaitTime,\ MaxWaitTime,\ Overflow-to-Serviced\ ratio,\ NetProfit\ are\ all\ shown\r\n\ @param\ Sim\ sim\r\n
+numComments=5

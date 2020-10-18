@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=SimTest
+comment0.text=\r\n\ The\ test\ class\ SimTest.\ run(),\ setupQ()\ and\ handleEvent()\ arent\ unit\ tested\ because\ they\ are\ called\ inside\ some\ of\ the\ tests.\r\n\ Since\ assertEquals\ works,\ the\ abovementioned\ 3\ methods\ also\ work\ properly\r\n\ \r\n\r\n\ @author\ \ Shakh\ Saidov\r\n
+comment1.params=
+comment1.target=void\ testCashierNotAvailable()
+comment2.params=
+comment2.target=void\ testCashierAvailable()
+comment3.params=
+comment3.target=void\ testCashierFreeTime()
+comment4.params=
+comment4.target=void\ testMoney()
+comment5.params=
+comment5.target=void\ testWaiting()
+numComments=6

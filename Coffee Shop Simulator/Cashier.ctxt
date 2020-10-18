@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Cashier
+comment0.text=\r\n\ Cashier\ class\ stores\ a\ cashier\ and\ contains\ methods\ needed\ for\ the\ cashier's\ tasks\r\n\ @author\ Shakh\ Saidov\r\n
+comment1.params=
+comment1.target=Cashier()
+comment2.params=customer
+comment2.target=void\ assignCustomer(Customer)
+comment2.text=\r\n\ Assigns\ a\ customer\ to\ the\ current\ cashier\r\n\ @param\ Customer\ \r\n
+comment3.params=
+comment3.target=Customer\ getCustomer()
+comment3.text=\r\n\ Returns\ the\ current\ customer\ that's\ being\ served\ by\ the\ cashier\r\n\ @return\ Current\ customer\r\n
+comment4.params=currentTime
+comment4.target=int\ getFinishedTime(int)
+comment4.text=\r\n\ Gets\ the\ time\ the\ cashier\ will\ finish\ serving\ current\ customer\ and\ will\ be\ free\r\n\ @param\ int\ current\ time\r\n\ @return\ int\ finishTime\r\n
+comment5.params=currentTime
+comment5.target=Event\ getFinishedEvent(int)
+comment5.text=\r\n\ Makes\ an\ event\ of\ the\ cashier\ finishing\ service\ to\ the\ customer,\ to\ put\ it\ onto\ the\ event\ priority\ queue\r\n\ @param\ int\ current\ time\r\n\ @return\ Event\ of\ finished\ service\r\n
+comment6.params=
+comment6.target=boolean\ isAvailable()
+comment6.text=\r\n\ Checks\ if\ the\ cashier\ is\ assigned\ to\ a\ customer\ or\ no.\r\n\ @return\ true\ if\ cashier\ available\r\n\ @return\ false\ if\ cashier\ busy\r\n
+comment7.params=available
+comment7.target=void\ setAvailable(boolean)
+comment7.text=\r\n\ Sets\ the\ avaliablity\ of\ the\ cashier\r\n\ @param\ boolean\ available\r\n
+numComments=8

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Event
+comment0.text=\r\n\ An\ Event\ class\ stores\ an\ event\ ->\ a\ time\ point\ when\ something\ changes\ in\ the\ simulation.\r\n\ It\ has\ 3\ types\:\r\n\ -\ when\ customer\ arrives\r\n\ -\ when\ customer\ waits\ to\ be\ served\r\n\ -\ when\ customer\ has\ been\ serviced\ and\ leaves\r\n\ It\ also\ implements\ Comparable\ so\ the\ priority\ queue\ that\ will\ be\ made\ can\ be\ sorted\ time-wise\r\n\ \r\n\ @author\ Shakh\ Saidov\r\n
+comment1.params=type\ target\ time
+comment1.target=Event(int,\ java.lang.Object,\ int)
+comment2.params=
+comment2.target=java.lang.Object\ getTarget()
+comment2.text=\r\n\ Gets\ the\ target\ of\ the\ event\ (Customer\ or\ Cashier)\r\n\ @return\ Object\ target\ person\r\n
+comment3.params=
+comment3.target=int\ getType()
+comment3.text=\r\n\ Gets\ the\ type\ of\ event\ \r\n\ @return\ int\ type\r\n
+comment4.params=
+comment4.target=int\ getTime()
+comment4.text=\r\n\ Gets\ the\ time\ of\ the\ event\r\n\ @return\ int\ time\r\n
+comment5.params=e
+comment5.target=int\ compareTo(Event)
+comment5.text=\r\n\ To\ implement\ Comparable,\ compares\ events\ based\ on\ their\ time\r\n\ @param\ Object\ to\ be\ compare\r\n
+numComments=6
