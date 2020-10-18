@@ -1,5 +1,5 @@
 **PROJECT TITLE:** Coffee Shop Simulator\
-**PURPOSE OF PROJECT:** Simulate a coffe shop and see how different variables, listed in instructions,  affect the net profit 
+**PURPOSE OF PROJECT:** Simulate a coffe shop and see how different variables, listed in instructions,  affect the net profit\
 **VERSION or DATE:** v1.0\
 **HOW TO START THIS PROJECT:** Require BlueJ or any IDE that supports Java\
 **AUTHORS:** Shakh Saidov\
