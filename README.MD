@@ -1,8 +1,5 @@
 **PROJECT TITLE:** Coffee Shop Simulator\
-**PURPOSE OF PROJECT:**
-- Learned using the following data structures - ArrayLists, LinkedLists, Queues and PriorityQueues 
-- Learned about event-driven simulations in Java\
-
+**PURPOSE OF PROJECT:** Simulate a coffe shop and see how different variables, listed in instructions,  affect the net profit 
 **VERSION or DATE:** v1.0\
 **HOW TO START THIS PROJECT:** Require BlueJ or any IDE that supports Java\
 **AUTHORS:** Shakh Saidov\
@@ -13,3 +10,7 @@ estimated profit of serving each customer in dollars
 - Third line: Two integers i1 and i2, 30 < i1 ≤ i2 < 300 - lower and upper bounds of the average time
 for a cashier to serve a customer in seconds
 - Fourth-to-Last line: The arrival times of the customers in the "hh:mm:ss" 24-hour format
+
+**LEARNED:** 
+- Learned using the following data structures - ArrayLists, LinkedLists, Queues and PriorityQueues 
+- Learned about event-driven simulations in Java
