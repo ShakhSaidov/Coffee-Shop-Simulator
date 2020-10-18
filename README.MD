@@ -1,4 +1,4 @@
-**PROJECT TITLE:** Coffee Shop Simulator
+**PROJECT TITLE:** Coffee Shop Simulator\
 **PURPOSE OF PROJECT:**
 - Learned using the following data structures - ArrayLists, LinkedLists, Queues and PriorityQueues 
 - Learned about event-driven simulations in Java
